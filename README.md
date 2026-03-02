@@ -13,7 +13,7 @@
 
 ---
 
-I started my career writing kernel drivers in C. These days I'm a Chief Architect at [Torq.io](https://torq.io), the AI SOC leader, building in Go. On nights and weekends, I build terminal tools and explore what happens when AI agents become real coding partners — not just autocomplete, but collaborators you plan with, debug with, and ship with.
+I started my career writing kernel drivers in C. These days I'm a Chief Architect at [Torq.io](https://torq.io), the AI SOC leader, prompting agents to write Go. On nights and weekends, I build terminal tools and explore what happens when AI agents become real coding partners — not just autocomplete, but collaborators you plan with, debug with, and ship with.
 
 Every project below was built with AI agents, for AI agents, or both.
 
